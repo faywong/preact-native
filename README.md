@@ -1,5 +1,5 @@
 # preact-native
-client native implement of preactjs(https://preactjs.com/)
+native(java, object-c) implement of preactjs(https://preactjs.com/)
 
 # container driver
 these dom apis need to be implemented in preact-native
