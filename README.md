@@ -1,8 +1,8 @@
 # preact-native
 client native implement of preactjs(https://preactjs.com/)
 
-# dom api driver
-the dom apis need to be implemented in native
+# container driver
+these dom apis need to be implemented in preact-native
 
 ### node
 * normalizedNodeName
