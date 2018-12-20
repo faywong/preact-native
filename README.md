@@ -10,7 +10,7 @@ these dom apis need to be implemented in preact-native
 * removeChild [YES]
 * style [YES]
 * innerHTML [YES]
-* addEventListener
+* addEventListener [YES]
 * removeEventListener
 * removeAttribute
 * removeAttributeNS
